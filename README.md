@@ -1,3 +1,4 @@
+![](https://cdn.discordapp.com/attachments/1406713879739760832/1421216393415884841/fake_femboy.jpg?ex=697e5769&is=697d05e9&hm=195e123c68a4f54b313eda5abb59416e6cf78d402c51cd35b6bfa78b083e4dc0&)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
